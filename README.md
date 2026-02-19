@@ -16,5 +16,18 @@ Key Insights & Conclusion:
 -As monthly income increases, attrition decreases as there is weak negative relationship.
 -As no. of years increases, attrition decreases as there is weak negative relationship.
 -Both young and older employees can be dissatisfied or satisfied, There is no strong age pattern.
+-Job roles with limited growth opportunities show higher turnover rates.
+
+Challenges Faced :
+  - Attrition data was imbalanced, requiring careful interpretation to avoid biased insights.
+  - Multiple categorical variables needed encoding and segmentation for meaningful analysis.
+  - Some features were highly correlated, requiring thoughtful feature selection.
+  - Translating HR metrics into actionable business strategies required domain understanding.
+
+Recommendations :
+ Employee Engagement
+ - Implement structured onboarding and mentorship programs for junior employees.
+ - Introduce regular employee feedback surveys to identify dissatisfaction early.
+ - Develop clear career progression paths across roles.
 
 Detailed analysis in the code attached in folder
